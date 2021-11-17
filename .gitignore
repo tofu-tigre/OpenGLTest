@@ -1,0 +1,8 @@
+x64/
+Libraries/
+OpenGLTest.vcxproj
+OpenGLTest.sln
+OpenGLTest.vcxproj.filters
+OpenGLTest.vcxproj.user
+.vs/
+glad.c
